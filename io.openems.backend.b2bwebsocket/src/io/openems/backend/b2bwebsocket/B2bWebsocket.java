@@ -20,7 +20,7 @@ import io.openems.backend.metadata.api.Metadata;
 )
 public class B2bWebsocket {
 
-	public final static int DEFAULT_PORT = 8076;
+	public final static int DEFAULT_PORT = 8077;
 
 	private WebsocketServer server = null;
 
